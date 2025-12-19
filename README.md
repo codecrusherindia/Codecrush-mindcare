@@ -2,6 +2,8 @@ Project Working link - https://codecrush-mindcare.vercel.app
 Chat demo - https://codecrush-mindcare.vercel.app/chatbot
 
 
+The repo connected with vercel hosting is - https://github.com/codecrusherindia/mindcare
+
 # Codecrush MindCare — General Project Information
 
 Short summary
